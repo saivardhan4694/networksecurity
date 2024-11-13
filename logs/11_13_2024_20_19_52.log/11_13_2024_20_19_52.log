@@ -1,3 +1,0 @@
-[2024-11-13 20:19:52,048] 13 root - INFO - Initiating data ingestion config
-[2024-11-13 20:19:58,173] 65 root - INFO - splitting data into train and test succesfull.
-[2024-11-13 20:19:58,173] 70 root - INFO - Exporting train and test flie path.
