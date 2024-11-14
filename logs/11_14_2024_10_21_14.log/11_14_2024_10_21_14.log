@@ -1,0 +1,11 @@
+[2024-11-14 10:21:14,792] 14 root - INFO - Initiating data ingestion phase
+[2024-11-14 10:21:20,980] 65 root - INFO - splitting data into train and test succesfull.
+[2024-11-14 10:21:20,980] 70 root - INFO - Exporting train and test flie path.
+[2024-11-14 10:21:21,033] 80 root - INFO - Exported data into test and train folders.
+[2024-11-14 10:21:21,033] 16 root - INFO - data ingestion phase completed.
+[2024-11-14 10:21:21,041] 20 root - INFO - Initiating data validation phase
+[2024-11-14 10:21:21,059] 34 root - INFO - required no.of columns 2
+[2024-11-14 10:21:21,059] 35 root - INFO - data frame has columns: 31
+[2024-11-14 10:21:21,059] 34 root - INFO - required no.of columns 2
+[2024-11-14 10:21:21,059] 35 root - INFO - data frame has columns: 31
+[2024-11-14 10:21:21,214] 22 root - INFO - data validation phase completed.
